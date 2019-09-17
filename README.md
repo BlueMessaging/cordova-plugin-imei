@@ -5,7 +5,7 @@ Get The Real IMEI Number on Android Device
 
 Install:
 
-    cordova plugin add https://github.com/BlueMessaging/cordova-plugin-imei
+    cordova plugin add https://github.com/BlueMessaging/cordova-plugin-imei.git
 
 Example Usage:
 
